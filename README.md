@@ -17,15 +17,15 @@ The Tip Calculator is a simple command-line tool that makes it easy to calculate
 
 1. Clone the repository to your local machine:
 
-  git clone https://github.com/9OmP/tip-calculator.git
+      git clone https://github.com/9OmP/tip-calculator.git
 
 2. Navigate to the project directory:
 
-  cd tip-calculator
+      cd tip-calculator
 
 3. Run the Tip Calculator:
 
-python tip_calculator.py
+    python tip_calculator.py
 
 
 4. Enter the bill amount and desired tip percentage when prompted.
